@@ -1,0 +1,5 @@
+fastapi
+jinja2
+aiofiles
+python-multipart
+email-validator
